@@ -1,1 +1,1 @@
-# Free to use by any one, for any purpose. Script and output are very rudimentary and have no intrinsic value. Therefore, I have no desire to classify it as intellectual property.
+# Free to use by any one, for any purpose. Script and output are very rudimentary and have no intrinsic value. Figures displayed are examples created using synthetic/mock data, and are not inclusive of real financial information or personally identifiable information (PII). Therefore, I have no desire to classify it as intellectual property or enable security settings.
